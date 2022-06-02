@@ -4,7 +4,7 @@ Bootcamp Project<br/>
 Amaç
 -	Bir işyerindeki iş takiplerinin yapılabilmesi için geliştirilecek uygulamadır.
 -	Program, küçük veya orta ölçekli işyerlerine hitap edecektir.
--	İlgili kişiler tarafından işlerin açılması ve işi alan veya iş atanan kişinin işi çözmesi bek-lenmektedir.
+-	İlgili kişiler tarafından işlerin açılması ve işi alan veya iş atanan kişinin işi çözmesi beklenmektedir.
 
 Pekiştirilecek Kavramlar
 -	N-Katmanlı Mimari tasarımı(sunum, servis, entity, iş katmanı, dal katmanı)
