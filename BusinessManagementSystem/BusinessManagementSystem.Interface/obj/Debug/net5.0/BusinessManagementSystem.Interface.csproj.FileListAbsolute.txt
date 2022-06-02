@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\BusinessManagementSystem.Bll\BusinessManagementSystem.Interface\bin\Debug\net5.0\BusinessManagementSystem.Interface.deps.json
+C:\Users\HP\source\repos\BusinessManagementSystem.Bll\BusinessManagementSystem.Interface\bin\Debug\net5.0\BusinessManagementSystem.Interface.dll
+C:\Users\HP\source\repos\BusinessManagementSystem.Bll\BusinessManagementSystem.Interface\bin\Debug\net5.0\ref\BusinessManagementSystem.Interface.dll
+C:\Users\HP\source\repos\BusinessManagementSystem.Bll\BusinessManagementSystem.Interface\bin\Debug\net5.0\BusinessManagementSystem.Interface.pdb
+C:\Users\HP\source\repos\BusinessManagementSystem.Bll\BusinessManagementSystem.Interface\obj\Debug\net5.0\BusinessManagementSystem.Interface.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\BusinessManagementSystem.Bll\BusinessManagementSystem.Interface\obj\Debug\net5.0\BusinessManagementSystem.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\BusinessManagementSystem.Bll\BusinessManagementSystem.Interface\obj\Debug\net5.0\BusinessManagementSystem.Interface.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\BusinessManagementSystem.Bll\BusinessManagementSystem.Interface\obj\Debug\net5.0\BusinessManagementSystem.Interface.AssemblyInfo.cs
+C:\Users\HP\source\repos\BusinessManagementSystem.Bll\BusinessManagementSystem.Interface\obj\Debug\net5.0\BusinessManagementSystem.Interface.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BusinessManagementSystem.Bll\BusinessManagementSystem.Interface\obj\Debug\net5.0\BusinessManagementSystem.Interface.dll
+C:\Users\HP\source\repos\BusinessManagementSystem.Bll\BusinessManagementSystem.Interface\obj\Debug\net5.0\ref\BusinessManagementSystem.Interface.dll
+C:\Users\HP\source\repos\BusinessManagementSystem.Bll\BusinessManagementSystem.Interface\obj\Debug\net5.0\BusinessManagementSystem.Interface.pdb
+C:\Users\HP\source\repos\BusinessManagementSystem.Bll\BusinessManagementSystem.Interface\bin\Debug\net5.0\BusinessManagementSystem.Entity.dll
+C:\Users\HP\source\repos\BusinessManagementSystem.Bll\BusinessManagementSystem.Interface\bin\Debug\net5.0\BusinessManagementSystem.Entity.pdb
+C:\Users\HP\source\repos\BusinessManagementSystem.Bll\BusinessManagementSystem.Interface\obj\Debug\net5.0\BusinessManagementSystem.Interface.csproj.CopyComplete

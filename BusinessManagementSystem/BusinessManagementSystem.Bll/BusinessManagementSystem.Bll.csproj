@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.16" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessManagementSystem.Dal\BusinessManagementSystem.Dal.csproj" />
+    <ProjectReference Include="..\BusinessManagementSystem.Entity\BusinessManagementSystem.Entity.csproj" />
+    <ProjectReference Include="..\BusinessManagementSystem.Interface\BusinessManagementSystem.Interface.csproj" />
+  </ItemGroup>
+
+</Project>

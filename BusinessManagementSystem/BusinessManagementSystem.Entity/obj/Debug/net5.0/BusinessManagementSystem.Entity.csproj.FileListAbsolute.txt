@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\BusinessManagementSystem.Bll\BusinessManagementSystem.Entity\bin\Debug\net5.0\BusinessManagementSystem.Entity.deps.json
+C:\Users\HP\source\repos\BusinessManagementSystem.Bll\BusinessManagementSystem.Entity\bin\Debug\net5.0\BusinessManagementSystem.Entity.dll
+C:\Users\HP\source\repos\BusinessManagementSystem.Bll\BusinessManagementSystem.Entity\bin\Debug\net5.0\ref\BusinessManagementSystem.Entity.dll
+C:\Users\HP\source\repos\BusinessManagementSystem.Bll\BusinessManagementSystem.Entity\bin\Debug\net5.0\BusinessManagementSystem.Entity.pdb
+C:\Users\HP\source\repos\BusinessManagementSystem.Bll\BusinessManagementSystem.Entity\obj\Debug\net5.0\BusinessManagementSystem.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\BusinessManagementSystem.Bll\BusinessManagementSystem.Entity\obj\Debug\net5.0\BusinessManagementSystem.Entity.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\BusinessManagementSystem.Bll\BusinessManagementSystem.Entity\obj\Debug\net5.0\BusinessManagementSystem.Entity.AssemblyInfo.cs
+C:\Users\HP\source\repos\BusinessManagementSystem.Bll\BusinessManagementSystem.Entity\obj\Debug\net5.0\BusinessManagementSystem.Entity.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BusinessManagementSystem.Bll\BusinessManagementSystem.Entity\obj\Debug\net5.0\BusinessManagementSystem.Entity.dll
+C:\Users\HP\source\repos\BusinessManagementSystem.Bll\BusinessManagementSystem.Entity\obj\Debug\net5.0\ref\BusinessManagementSystem.Entity.dll
+C:\Users\HP\source\repos\BusinessManagementSystem.Bll\BusinessManagementSystem.Entity\obj\Debug\net5.0\BusinessManagementSystem.Entity.pdb
+C:\Users\HP\source\repos\BusinessManagementSystem.Bll\BusinessManagementSystem.Entity\bin\Debug\net5.0\BusinessManagementSystem.Entity.runtimeconfig.json
+C:\Users\HP\source\repos\BusinessManagementSystem.Bll\BusinessManagementSystem.Entity\bin\Debug\net5.0\BusinessManagementSystem.Entity.runtimeconfig.dev.json
+C:\Users\HP\source\repos\BusinessManagementSystem.Bll\BusinessManagementSystem.Entity\obj\Debug\net5.0\BusinessManagementSystem.Entity.genruntimeconfig.cache
+C:\Users\HP\source\repos\BusinessManagementSystem.Bll\BusinessManagementSystem.Entity\obj\Debug\net5.0\BusinessManagementSystem.Entity.csproj.AssemblyReference.cache
