@@ -2,8 +2,8 @@
 Bootcamp Project<br/>
 ## İş Yönetim Sistemi<br/>
 Amaç
--	Bir işyerindeki iş takiplerinin yapılabilmesi için geliştirilecek uygulamadır
--	Program, küçük veya orta ölçekli işyerlerine hitap edecektir
+-	Bir işyerindeki iş takiplerinin yapılabilmesi için geliştirilecek uygulamadır.
+-	Program, küçük veya orta ölçekli işyerlerine hitap edecektir.
 -	İlgili kişiler tarafından işlerin açılması ve işi alan veya iş atanan kişinin işi çözmesi bek-lenmektedir.
 
 Pekiştirilecek Kavramlar
